@@ -1,0 +1,9 @@
+# Rojo / Roblox Studio files
+*.rbxlx
+*.rbxl
+.rojo/
+build/
+
+# Mac OS files
+.DS_Store
+Thumbs.db
