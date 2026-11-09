@@ -1,6 +1,6 @@
 # 🌵 WILD WEST FRONTIER
 ### A Multiplayer Western Adventure — Portfolio Game Architecture
-*Engineered for the Roblox Platform | Luau Architecture Demonstration for Lambda Studios*
+*Engineered for the Roblox Platform *
 
 ---
 
@@ -243,5 +243,5 @@ When running in Roblox Studio:
 
 ---
 
-*Authored by Senior Roblox Game Developer for review by Lambda Studios.*
+
 
