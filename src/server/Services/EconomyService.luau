@@ -163,3 +163,4 @@ function EconomyService:RewardCoins(player: Player, amount: number, reason: stri
 end
 
 return EconomyService
+

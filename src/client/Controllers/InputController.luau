@@ -157,3 +157,4 @@ function InputController:GetStamina(): (number, number)
 end
 
 return InputController
+

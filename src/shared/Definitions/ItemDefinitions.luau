@@ -124,3 +124,4 @@ function ItemDefinitionsModule.GetAll(): { [string]: ItemDefinition }
 end
 
 return ItemDefinitionsModule
+

@@ -51,3 +51,4 @@ local GameConfig = {
 }
 
 return GameConfig
+

@@ -93,3 +93,4 @@ function InteractionController:SetupLocationTriggers()
 end
 
 return InteractionController
+

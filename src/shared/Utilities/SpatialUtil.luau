@@ -90,3 +90,4 @@ function SpatialUtil.HasLineOfSight(
 end
 
 return SpatialUtil
+

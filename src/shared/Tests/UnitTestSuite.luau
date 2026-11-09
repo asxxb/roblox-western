@@ -152,3 +152,4 @@ function UnitTestSuite.RunAll(): { Passed: number, Failed: number, Results: { Te
 end
 
 return UnitTestSuite
+

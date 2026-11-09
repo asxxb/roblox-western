@@ -57,3 +57,4 @@ function QuestController:GetActiveQuests(): { ClientQuestData }
 end
 
 return QuestController
+

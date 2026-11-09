@@ -17,3 +17,4 @@ local EconomyConfig = {
 }
 
 return EconomyConfig
+

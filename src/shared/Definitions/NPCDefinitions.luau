@@ -304,3 +304,4 @@ function NPCDefinitionsModule.GetAll(): { [string]: NPCDefinition }
 end
 
 return NPCDefinitionsModule
+

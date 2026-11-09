@@ -115,3 +115,4 @@ function NetworkRouter.GetFunction(functionName: string): RemoteFunction
 end
 
 return NetworkRouter
+

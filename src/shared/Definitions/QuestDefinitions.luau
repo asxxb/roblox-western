@@ -143,3 +143,4 @@ function QuestDefinitionsModule.GetAll(): { [string]: QuestDefinition }
 end
 
 return QuestDefinitionsModule
+

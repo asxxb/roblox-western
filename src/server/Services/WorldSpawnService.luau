@@ -521,3 +521,4 @@ function WorldSpawnService:SpawnNPCs()
 end
 
 return WorldSpawnService
+

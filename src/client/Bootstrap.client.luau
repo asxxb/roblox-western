@@ -76,3 +76,4 @@ end
 local elapsedTime = math.floor((os.clock() - startTime) * 1000)
 print(string.format("[ClientBootstrap] All %d controllers started in %d ms.", #controllerLoadOrder, elapsedTime))
 print("==================================================")
+

@@ -1285,3 +1285,4 @@ function UIController:ShowToast(toastType: string, message: string)
 end
 
 return UIController
+

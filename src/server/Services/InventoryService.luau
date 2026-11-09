@@ -226,3 +226,4 @@ function InventoryService:EquipItem(player: Player, itemId: string): (boolean, s
 end
 
 return InventoryService
+

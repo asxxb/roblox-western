@@ -117,3 +117,4 @@ function Signal.Destroy<T...>(self: any)
 end
 
 return Signal
+
